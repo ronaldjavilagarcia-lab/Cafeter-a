@@ -1,0 +1,14 @@
+.menu1{ 
+    width: 100%;
+  height: 400px; /* Altura fija o relativa */
+  object-fit: cover; /* Recorta la imagen para llenar el espacio */
+  object-position: center; /* Centra el foco de la imagen */
+  
+}
+
+.menufrappes{
+  width: 100%;
+  height: 400px; /* Altura fija o relativa */
+  object-fit: cover; /* Recorta la imagen para llenar el espacio */
+  object-position: center; /* Centra el foco de la imagen */
+}   
